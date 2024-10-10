@@ -1,0 +1,384 @@
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9241789728895746
+Precision: 0.9550591640812053, Recall: 0.9302720578310362, F1-Score: 0.9425026685964133, Time: 133.95767617225647 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9204720780652013
+Precision: 0.9564166718468329, Recall: 0.9230094335378016, F1-Score: 0.9394161419576418, Time: 115.95664763450623 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9114603161881099
+Precision: 0.9498642773253688, Recall: 0.9157955516894881, F1-Score: 0.9325188508160733, Time: 86.5714373588562 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9188014707355682
+Precision: 0.9517563987366424, Recall: 0.9253528203128515, F1-Score: 0.9383689120313601, Time: 100.13737177848816 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9242491033321979
+Precision: 0.9546195610378824, Recall: 0.9308532177512485, F1-Score: 0.9425866022749707, Time: 97.56630373001099 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9197883062496243
+Precision: 0.9575091917856823, Recall: 0.9207860281656344, F1-Score: 0.9387886166896349, Time: 111.39569425582886 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9115204279960727
+Precision: 0.9499214423495738, Recall: 0.9158292964590489, F1-Score: 0.9325638930674018, Time: 78.15084218978882 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9188014707355682
+Precision: 0.9517563987366424, Recall: 0.9253528203128515, F1-Score: 0.9383689120313601, Time: 84.05097985267639 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9237932554551466
+Precision: 0.9543605008922528, Recall: 0.9304145357469592, F1-Score: 0.9422354022220365, Time: 110.06011486053467 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9213436992806621
+Precision: 0.9560756068629199, Recall: 0.9247379156230784, F1-Score: 0.9401456904668423, Time: 96.73844528198242 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9096043641172581
+Precision: 0.9483066300168346, Recall: 0.9145319975403813, F1-Score: 0.9311131343323465, Time: 81.0021743774414 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9189191896928287
+Precision: 0.9472709782334843, Recall: 0.9304145357469592, F1-Score: 0.9387670947850265, Time: 80.68272566795349 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9241489169855932
+Precision: 0.9562549210319115, Recall: 0.928948512980488, F1-Score: 0.9424039558767591, Time: 101.6956467628479 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9209229166249223
+Precision: 0.9562062489329008, Recall: 0.9239392894101415, F1-Score: 0.939795887234562, Time: 95.9582290649414 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9095692988959465
+Precision: 0.9482515307610069, Recall: 0.9145357469592214, F1-Score: 0.9310885170432097, Time: 91.37029361724854 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9189191896928287
+Precision: 0.9472709782334843, Recall: 0.9304145357469592, F1-Score: 0.9387670947850265, Time: 79.60525298118591 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9347987256296711
+Precision: 0.9569161256027642, Recall: 0.9449397843334283, F1-Score: 0.9508902463411044, Time: 158.16337394714355 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9326747750816519
+Precision: 0.9590888208269526, Recall: 0.9392819113037479, F1-Score: 0.9490820370216024, Time: 170.22160243988037 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9269265834452081
+Precision: 0.9441778708603699, Recall: 0.946574530947703, F1-Score: 0.9453746819374153, Time: 94.49935984611511 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9262478209469613
+Precision: 0.9568036719574274, Recall: 0.9316555933830256, F1-Score: 0.9440621877410211, Time: 118.22176551818848 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9368826016390487
+Precision: 0.9518357205932977, Recall: 0.9537771645394963, F1-Score: 0.9528054535920293, Time: 159.20213413238525 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9307386739335164
+Precision: 0.9621724453930656, Recall: 0.9329978853277742, F1-Score: 0.9473606064009411, Time: 159.1811261177063 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9269516300318592
+Precision: 0.9440769918155067, Recall: 0.9467282571201464, F1-Score: 0.945400765681016, Time: 84.27952647209167 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9267462480213197
+Precision: 0.9576467504635037, Recall: 0.9315393613989832, F1-Score: 0.9444126619087894, Time: 123.15517234802246 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.936526940108602
+Precision: 0.9514585624611885, Recall: 0.9536346866235733, F1-Score: 0.9525453816855358, Time: 161.86843419075012 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9305758711202837
+Precision: 0.9646970981465782, Recall: 0.9301108328209128, F1-Score: 0.9470883108652411, Time: 155.39304184913635 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9266059871360731
+Precision: 0.9439484776291331, Recall: 0.9463233198854177, F1-Score: 0.9451344069411912, Time: 89.073810338974 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.92579197306991
+Precision: 0.9552192379474812, Recall: 0.9326341917002865, F1-Score: 0.9437916184477624, Time: 102.30567145347595 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9364943795459555
+Precision: 0.9518010041145484, Recall: 0.9532035034569641, F1-Score: 0.9525017375128557, Time: 160.66742086410522 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.932677279740317
+Precision: 0.95857282166007, Recall: 0.9398368252920797, F1-Score: 0.949112367782841, Time: 158.95163822174072 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9265583986214359
+Precision: 0.9438913654858784, Recall: 0.9463120716288975, F1-Score: 0.94510016850777, Time: 102.99346208572388 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9226160658825415
+Precision: 0.950335729399812, Recall: 0.9329116486944523, F1-Score: 0.9415430839731631, Time: 105.84950137138367 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9267462480213197
+Precision: 0.9570829660028412, Recall: 0.9321392684133959, F1-Score: 0.9444464494315862, Time: 204.4667363166809 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9260324203017612
+Precision: 0.9605108848450958, Recall: 0.9274000029995351, F1-Score: 0.9436650884548913, Time: 202.35495567321777 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9108892540124632
+Precision: 0.9474858085450758, Recall: 0.9174527948168034, F1-Score: 0.9322274755125133, Time: 105.3939642906189 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9178121305628469
+Precision: 0.9484851971161221, Recall: 0.9273325134604137, F1-Score: 0.937789591027323, Time: 121.71128726005554 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9273123008796361
+Precision: 0.957412332526355, Recall: 0.9326754353075273, F1-Score: 0.944882009401263, Time: 198.37739729881287 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9255089466407518
+Precision: 0.9600639908052047, Recall: 0.9270513070474077, F1-Score: 0.9432688914534234, Time: 203.10153245925903 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9108491794738213
+Precision: 0.9474236463883038, Recall: 0.9174565442356435, F1-Score: 0.9321993218789287, Time: 108.25867652893066 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9175641693550003
+Precision: 0.9481252324052457, Recall: 0.9273325134604137, F1-Score: 0.9376136111621841, Time: 114.04299402236938 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9268764902719058
+Precision: 0.9579234740896979, Recall: 0.9314493753468213, F1-Score: 0.9445009457365815, Time: 195.87444853782654 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9257769451179193
+Precision: 0.960355741970562, Recall: 0.92716378961261, F1-Score: 0.943467926241611, Time: 196.20721793174744 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.911207345662933
+Precision: 0.9482645659767317, Recall: 0.9171153471211962, F1-Score: 0.9324298824942105, Time: 110.68885445594788 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9181126896026609
+Precision: 0.9460502138625637, Recall: 0.9304782758672405, F1-Score: 0.9381996348005579, Time: 120.63879466056824 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9261150740377101
+Precision: 0.9580226222151852, Recall: 0.9301520764281537, F1-Score: 0.9438816566696533, Time: 196.33961248397827 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9257669264832589
+Precision: 0.9602121398010607, Recall: 0.9272987686908529, F1-Score: 0.9434684916665713, Time: 196.45965695381165 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.911207345662933
+Precision: 0.9482645659767317, Recall: 0.9171153471211962, F1-Score: 0.9324298824942105, Time: 111.45137691497803 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9181126896026609
+Precision: 0.9460502138625637, Recall: 0.9304782758672405, F1-Score: 0.9381996348005579, Time: 108.67879486083984 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9388487586911656
+Precision: 0.9532450137866787, Recall: 0.955314426263929, F1-Score: 0.9542785981142144, Time: 360.99855613708496 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9363591279780391
+Precision: 0.9613694680366955, Recall: 0.9426076458148986, F1-Score: 0.9518961172713176, Time: 323.07562470436096 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9255815817420402
+Precision: 0.9397642675296336, Recall: 0.9494540846168844, F1-Score: 0.9445843264958987, Time: 120.19936966896057 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9258696174885287
+Precision: 0.9540321005526259, Recall: 0.9340327249276362, F1-Score: 0.9439264907876664, Time: 135.99567556381226 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9388662913018214
+Precision: 0.9532564125587382, Recall: 0.9553294239392894, F1-Score: 0.9542917924478834, Time: 325.9566113948822 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9374311218867093
+Precision: 0.960258797634416, Recall: 0.9454647029710395, F1-Score: 0.9528043271674095, Time: 354.68169474601746 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9254889093714309
+Precision: 0.9396743991004598, Recall: 0.9494090915908034, F1-Score: 0.9445166632784947, Time: 113.47212624549866 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.926004869056445
+Precision: 0.9547380651989676, Recall: 0.9334853097769845, F1-Score: 0.943992083097147, Time: 142.41977286338806 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9390441220670447
+Precision: 0.9537949964238772, Recall: 0.9550144727567227, F1-Score: 0.9544043450484021, Time: 325.38635182380676 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9364367723966578
+Precision: 0.9617660115111437, Recall: 0.9423076923076923, F1-Score: 0.9519374266126283, Time: 332.7698874473572 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9258019917045704
+Precision: 0.9403622693096377, Recall: 0.9491203863401173, F1-Score: 0.9447210300429184, Time: 119.669748544693 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.925000500931733
+Precision: 0.9520743592093606, Recall: 0.9347826086956522, F1-Score: 0.9433492504332428, Time: 134.42238974571228 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9390641593363657
+Precision: 0.9537963805479729, Recall: 0.9550444681074434, F1-Score: 0.9544200162993077, Time: 327.30736684799194 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9360260083755786
+Precision: 0.9610992994585335, Recall: 0.9423751818468138, F1-Score: 0.9516451478550604, Time: 332.08713579177856 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9257619171659286
+Precision: 0.9403031090969874, Recall: 0.9491241357589574, F1-Score: 0.9446930313965943, Time: 109.40341973304749 seconds
+Validation Accuracy for (learning_rate=0.05, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9236054060552628
+Precision: 0.9500501099370101, Recall: 0.9347863581144923, F1-Score: 0.942356429693214, Time: 136.20911169052124 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9267587713146452
+Precision: 0.956820000615593, Recall: 0.9324392219206024, F1-Score: 0.9444722950134823, Time: 94.06887722015381 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9260499529124171
+Precision: 0.9605799217812439, Recall: 0.9273550099734541, F1-Score: 0.9436751107897694, Time: 104.08799815177917 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9099725489410303
+Precision: 0.9499797204542618, Recall: 0.9133209352550354, F1-Score: 0.9312897133375644, Time: 60.95770859718323 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9183806880798285
+Precision: 0.9463613658462183, Recall: 0.9305607630817223, F1-Score: 0.9383945568971741, Time: 54.10140109062195 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9272897589516501
+Precision: 0.9577032991580715, Recall: 0.93233048877424, F1-Score: 0.9448465849719768, Time: 92.55492949485779 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9260449435950868
+Precision: 0.9604294061693165, Recall: 0.9275049867270573, F1-Score: 0.9436801055938414, Time: 93.05616474151611 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9099475023543792
+Precision: 0.9499672402227665, Recall: 0.9132946893231549, F1-Score: 0.9312700718764337, Time: 60.549216985702515 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9183806880798285
+Precision: 0.9463613658462183, Recall: 0.9305607630817223, F1-Score: 0.9383945568971741, Time: 54.37096357345581 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9256441982086682
+Precision: 0.9582010725208105, Recall: 0.9292259699746539, F1-Score: 0.9434911135602674, Time: 92.98559236526489 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9267712946079708
+Precision: 0.9608528079551938, Recall: 0.928194879793632, F1-Score: 0.9442415481232992, Time: 97.10669279098511 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9154001442683392
+Precision: 0.9506742768694979, Recall: 0.921149721793122, F1-Score: 0.9356791517577451, Time: 52.00841212272644 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9178822610054702
+Precision: 0.9469585221757706, Recall: 0.9291134874094515, F1-Score: 0.9379511345786257, Time: 57.6630175113678 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9269190694692128
+Precision: 0.9576121634326403, Recall: 0.9318468137438697, F1-Score: 0.944553815749468, Time: 102.85214161872864 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9251132105716633
+Precision: 0.9591831194567574, Recall: 0.9273587593922942, F1-Score: 0.9430025144547789, Time: 92.30584526062012 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9153650790470275
+Precision: 0.9506192902828885, Recall: 0.9211534712119621, F1-Score: 0.9356544523554267, Time: 51.54539752006531 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9178822610054702
+Precision: 0.9469585221757706, Recall: 0.9291134874094515, F1-Score: 0.9379511345786257, Time: 58.382476568222046 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9388187027871842
+Precision: 0.9544569535678512, Recall: 0.9539308907119396, F1-Score: 0.9541938496331119, Time: 159.4323332309723 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9353873204159737
+Precision: 0.9600224558616292, Recall: 0.942525158600417, F1-Score: 0.9511933479013537, Time: 153.11515593528748 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.929341074398381
+Precision: 0.9473255783420423, Recall: 0.9468744844549095, F1-Score: 0.9470999776856451, Time: 59.70062208175659 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.924977959003747
+Precision: 0.9537048748050116, Recall: 0.9329828876524139, F1-Score: 0.9432300837153943, Time: 76.53533148765564 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9394598954054542
+Precision: 0.9547631279930099, Recall: 0.954602036684314, F1-Score: 0.9546825755431022, Time: 151.07205867767334 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9362739695834251
+Precision: 0.9599781893333639, Recall: 0.9439574365973274, F1-Score: 0.9519004092898395, Time: 158.8239471912384 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9293260464463903
+Precision: 0.9473076129564679, Recall: 0.9468707350360694, F1-Score: 0.9470891236149734, Time: 57.51281762123108 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9241213657402769
+Precision: 0.95356056158607, Recall: 0.9317905724612685, F1-Score: 0.9425498789176355, Time: 65.69688844680786 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.939627707536017
+Precision: 0.9572154417917423, Recall: 0.9521836615324625, F1-Score: 0.9546929216148448, Time: 172.34558391571045 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9366496683831927
+Precision: 0.9623409006469307, Recall: 0.9420302353135264, F1-Score: 0.9520772584394842, Time: 148.99022912979126 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.929406195523674
+Precision: 0.9477909233928954, Recall: 0.9464582989636606, F1-Score: 0.9471241424205642, Time: 57.17928099632263 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9232697817941371
+Precision: 0.9522453936958096, Recall: 0.9318693102569102, F1-Score: 0.9419471716419466, Time: 76.76842641830444 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9396377261706774
+Precision: 0.9579306595796087, Recall: 0.9514225295079263, F1-Score: 0.954665502893131, Time: 149.94820594787598 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9371330675055604
+Precision: 0.962170599577633, Recall: 0.9429638406047063, F1-Score: 0.9524704028843459, Time: 158.9271285533905 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9293661209850321
+Precision: 0.9477306261286799, Recall: 0.9464620483825007, F1-Score: 0.9470959124599716, Time: 65.81205010414124 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9231545674955417
+Precision: 0.9521087695236927, Recall: 0.9318355654873495, F1-Score: 0.9418630871058881, Time: 66.4879732131958 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9346334181577735
+Precision: 0.9604976076555024, Recall: 0.9408416695412211, F1-Score: 0.9505680376090522, Time: 200.24493718147278 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9325395235137356
+Precision: 0.9603672585401819, Recall: 0.9377109048097545, F1-Score: 0.9489038632276277, Time: 198.35417985916138 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.911956238603803
+Precision: 0.949892362811157, Recall: 0.9165491848763442, F1-Score: 0.9329229430554866, Time: 90.56028532981873 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.920401947622578
+Precision: 0.9492858946015621, Recall: 0.9305570136628822, F1-Score: 0.9398281561817198, Time: 82.55706906318665 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9337292363796662
+Precision: 0.958628746835878, Recall: 0.9414228294614335, F1-Score: 0.9499478840547907, Time: 198.77808165550232 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9323166088925401
+Precision: 0.9589960819159163, Recall: 0.9388207327864181, F1-Score: 0.9488011670976971, Time: 189.2551131248474 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9119236780411566
+Precision: 0.9498269022298723, Recall: 0.9165679319705445, F1-Score: 0.9329010813296519, Time: 90.35453844070435 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.920401947622578
+Precision: 0.9492858946015621, Recall: 0.9305570136628822, F1-Score: 0.9398281561817198, Time: 82.71901750564575 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9330354459294288
+Precision: 0.9587006552538823, Recall: 0.9402605096210087, F1-Score: 0.9493910495451328, Time: 200.69308280944824 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9327298775722844
+Precision: 0.9602798716551268, Recall: 0.9381008443691228, F1-Score: 0.9490607977908264, Time: 188.98305130004883 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9166224176969162
+Precision: 0.9486876857365837, Recall: 0.9252290894911289, F1-Score: 0.9368115545887502, Time: 102.33122301101685 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9180125032560562
+Precision: 0.9454272007310387, Recall: 0.9310069439236919, F1-Score: 0.9381616630269691, Time: 84.4718668460846 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9327273729136193
+Precision: 0.9583411364079358, Recall: 0.9401630247311666, F1-Score: 0.9491650531742742, Time: 192.26554417610168 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9319910032660749
+Precision: 0.9587682172472567, Recall: 0.9385545240487725, F1-Score: 0.948553694346079, Time: 199.35116338729858 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9165873524756046
+Precision: 0.9486331781539159, Recall: 0.925232838909969, F1-Score: 0.9367868999329964, Time: 79.67733812332153 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9180125032560562
+Precision: 0.9454272007310387, Recall: 0.9310069439236919, F1-Score: 0.9381616630269691, Time: 95.01961302757263 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9417165928627247
+Precision: 0.960652002785431, Recall: 0.9517337312716528, F1-Score: 0.9561720721738802, Time: 334.5344443321228 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9400885647303986
+Precision: 0.9647193936145777, Recall: 0.9448685453754668, F1-Score: 0.9546907911684926, Time: 326.81942415237427 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9281288196044643
+Precision: 0.9434138017117073, Recall: 0.9493528503082023, F1-Score: 0.9463740083536568, Time: 85.85103607177734 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9223656000160299
+Precision: 0.9497153410565197, Recall: 0.9331928551074583, F1-Score: 0.9413816058217468, Time: 107.80271792411804 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9425230929528924
+Precision: 0.963136775066309, Recall: 0.950331448625463, F1-Score: 0.9566912638949175, Time: 320.4147472381592 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9403290119622498
+Precision: 0.9620342258847521, Recall: 0.9480892961590953, F1-Score: 0.9550108582758947, Time: 357.4572813510895 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9280887450658224
+Precision: 0.9433476522769356, Recall: 0.9493640985647225, F1-Score: 0.9463463130492958, Time: 98.27384734153748 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9231896327168534
+Precision: 0.9521494439144743, Recall: 0.9318468137438697, F1-Score: 0.941888734558836, Time: 95.67485356330872 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9408775322099104
+Precision: 0.9583407177251799, Recall: 0.9529185476251181, F1-Score: 0.9556219414296108, Time: 347.13729977607727 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9405419079487848
+Precision: 0.9614427718966388, Recall: 0.9490528968009958, F1-Score: 0.9552076591714012, Time: 327.2404899597168 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9281037730178131
+Precision: 0.9436431215678672, Recall: 0.9490528968009958, F1-Score: 0.9463402779725019, Time: 85.03096055984497 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9230368485382812
+Precision: 0.950188866419932, Recall: 0.93373652083927, F1-Score: 0.9418908543527018, Time: 106.8979115486145 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9410678862684594
+Precision: 0.9605680324546684, Recall: 0.9508113742369932, F1-Score: 0.9556648018586527, Time: 323.6723644733429 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9398681547678682
+Precision: 0.9646790325792272, Recall: 0.9445685918682604, F1-Score: 0.9545178988208906, Time: 348.48258543014526 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9280636984791713
+Precision: 0.9435835305958883, Recall: 0.9490566462198359, F1-Score: 0.9463121748606913, Time: 94.29962706565857 seconds
+Validation Accuracy for (learning_rate=0.1, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9229967739996393
+Precision: 0.9501583425540845, Recall: 0.9337065254885493, F1-Score: 0.9418605970521825, Time: 95.4404456615448 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9319584427034284
+Precision: 0.9577247330566447, Recall: 0.9396193589993551, F1-Score: 0.948585660914428, Time: 93.81570863723755 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9332408279399683
+Precision: 0.961674269757137, Recall: 0.9374221995590684, F1-Score: 0.9493933813058915, Time: 94.34757971763611 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9138547698719619
+Precision: 0.94726344404827, Recall: 0.9223945288480285, F1-Score: 0.934663591773775, Time: 52.53901433944702 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9218922195283227
+Precision: 0.9508877121645474, Recall: 0.9311681689338153, F1-Score: 0.9409246332060961, Time: 43.1010000705719 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9317330234235678
+Precision: 0.9606547032750554, Recall: 0.9361473971534412, F1-Score: 0.9482427289921231, Time: 92.87558770179749 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9326697657643216
+Precision: 0.9589936153598824, Recall: 0.9393756467747499, F1-Score: 0.9490832638836274, Time: 93.8527295589447 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9138547698719619
+Precision: 0.94726344404827, Recall: 0.9223945288480285, F1-Score: 0.934663591773775, Time: 41.696664810180664 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9218922195283227
+Precision: 0.9508877121645474, Recall: 0.9311681689338153, F1-Score: 0.9409246332060961, Time: 43.73978805541992 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9323717113831727
+Precision: 0.9610051426439421, Recall: 0.9367735500997345, F1-Score: 0.9487346470701037, Time: 103.20730304718018 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9328626244815357
+Precision: 0.9588652265224227, Recall: 0.9398143287790393, F1-Score: 0.9492442015689705, Time: 92.64106297492981 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9167150900675256
+Precision: 0.9455777379089209, Recall: 0.9287797891326844, F1-Score: 0.9371034921067265, Time: 40.36655354499817 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9215741278778528
+Precision: 0.9518088014003624, Recall: 0.9296684013977834, F1-Score: 0.9406083321320456, Time: 44.446141481399536 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.929791912958102
+Precision: 0.9603735808441446, Recall: 0.9334140708190231, F1-Score: 0.9467019312492753, Time: 95.60850429534912 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9333009397479312
+Precision: 0.9588962543294264, Recall: 0.9404667276572132, F1-Score: 0.9495920801075167, Time: 104.81225633621216 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9166875388222093
+Precision: 0.9455244304150174, Recall: 0.9287947868080447, F1-Score: 0.9370849465762053, Time: 40.51824927330017 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9215766325365179
+Precision: 0.9518159239311941, Recall: 0.9296646519789432, F1-Score: 0.9406098909540619, Time: 47.65683698654175 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9419770773638968
+Precision: 0.9609744094488188, Recall: 0.9517937219730942, F1-Score: 0.956362033499853, Time: 163.7357907295227 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9409727092391849
+Precision: 0.9610689078434868, Recall: 0.9501252305892587, F1-Score: 0.9555657369541404, Time: 162.7790653705597 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.928827619372032
+Precision: 0.9465775605514284, Recall: 0.9468969809679499, F1-Score: 0.9467372438173142, Time: 43.9097204208374 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9260524575710822
+Precision: 0.9537426730536722, Recall: 0.9346326319420489, F1-Score: 0.9440909572937023, Time: 53.465062856674194 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9415387620975013
+Precision: 0.9605856324732298, Recall: 0.9515275132354485, F1-Score: 0.9560351176584713, Time: 152.26320123672485 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9406170477087382
+Precision: 0.9613350293319158, Recall: 0.9492853607690808, F1-Score: 0.9552721983575847, Time: 161.01230907440186 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9287950588093855
+Precision: 0.9465682618098947, Recall: 0.946855737360709, F1-Score: 0.9467119777618243, Time: 43.838229179382324 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9263354840002405
+Precision: 0.9537175481734436, Recall: 0.935105058715899, F1-Score: 0.944319599553966, Time: 53.06014084815979 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9413759592842688
+Precision: 0.9593515889318511, Recall: 0.9526035964425514, F1-Score: 0.9559656846145164, Time: 153.3534665107727 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9413684453082733
+Precision: 0.9628113479602357, Recall: 0.9488804235343522, F1-Score: 0.9557951268701952, Time: 160.88038635253906 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9279860540605527
+Precision: 0.9435207896875396, Recall: 0.9490041543560748, F1-Score: 0.9462545283251647, Time: 44.210946559906006 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9279034003246037
+Precision: 0.9566151944697135, Recall: 0.9344526598377252, F1-Score: 0.945404059275051, Time: 52.0519163608551 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.941658985713427
+Precision: 0.960543991160522, Recall: 0.9517599772035334, F1-Score: 0.9561318098524041, Time: 165.08010840415955 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9404542448955057
+Precision: 0.9628195846827967, Recall: 0.9474481455374417, F1-Score: 0.9550720200771792, Time: 148.97922587394714 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9279359608872503
+Precision: 0.9434438389455871, Recall: 0.949011653193755, F1-Score: 0.9462195555057105, Time: 44.67947268486023 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=50, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9279184282765944
+Precision: 0.9566828024890882, Recall: 0.9344039173928042, F1-Score: 0.9454121262127636, Time: 52.05558395385742 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9373559821267557
+Precision: 0.9606051019746997, Recall: 0.9449772785218291, F1-Score: 0.9527271077744827, Time: 198.89855432510376 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9360585689382251
+Precision: 0.9589776771271433, Recall: 0.944692322689983, F1-Score: 0.9517814004529289, Time: 206.55896639823914 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9136393692267618
+Precision: 0.947435551616508, Recall: 0.9218658607915773, F1-Score: 0.934475825608398, Time: 68.0229115486145 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9218371170376901
+Precision: 0.9507765574216073, Recall: 0.931201913703376, F1-Score: 0.9408874366624047, Time: 69.86273956298828 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.936612098503216
+Precision: 0.95995670995671, Recall: 0.9445086011668191, F1-Score: 0.9521700017387228, Time: 224.87995767593384 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9359984571302623
+Precision: 0.9586736304743936, Recall: 0.944924786658068, F1-Score: 0.9517495576775286, Time: 189.1214737892151 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9136393692267618
+Precision: 0.947435551616508, Recall: 0.9218658607915773, F1-Score: 0.934475825608398, Time: 69.88650345802307 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9218371170376901
+Precision: 0.9507765574216073, Recall: 0.931201913703376, F1-Score: 0.9408874366624047, Time: 82.02830338478088 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9365970705512253
+Precision: 0.9616764588879708, Recall: 0.9426526388409796, F1-Score: 0.9520695270193509, Time: 190.51111435890198 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9358782335143366
+Precision: 0.9608367068429684, Recall: 0.9424239242917348, F1-Score: 0.9515412498462064, Time: 205.04394483566284 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9167150900675256
+Precision: 0.9455777379089209, Recall: 0.9287797891326844, F1-Score: 0.9371034921067265, Time: 66.70859408378601 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9215641092431923
+Precision: 0.9517941867428256, Recall: 0.9296684013977834, F1-Score: 0.9406011957148493, Time: 71.63335943222046 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9368800969803835
+Precision: 0.9618731425205495, Recall: 0.9428851028090646, F1-Score: 0.9522844792493056, Time: 203.95120906829834 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9357404772877552
+Precision: 0.960152867603827, Recall: 0.9429375946728257, F1-Score: 0.951467366836034, Time: 190.33981823921204 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9166875388222093
+Precision: 0.9455244304150174, Recall: 0.9287947868080447, F1-Score: 0.9370849465762053, Time: 68.91851711273193 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=4, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9215666139018575
+Precision: 0.9518013089959886, Recall: 0.9296646519789432, F1-Score: 0.9406027544844304, Time: 91.41013813018799 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9436376660588695
+Precision: 0.9647398689924752, Recall: 0.9503614439761837, F1-Score: 0.95749668046109, Time: 347.5699579715729 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9428111286993809
+Precision: 0.9630086687753219, Recall: 0.9509163579645155, F1-Score: 0.956924313341521, Time: 328.5674030780792 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.928827619372032
+Precision: 0.9465775605514284, Recall: 0.9468969809679499, F1-Score: 0.9467372438173142, Time: 86.48498606681824 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.926047448253752
+Precision: 0.9537353749148704, Recall: 0.9346326319420489, F1-Score: 0.9440873816927172, Time: 80.1599531173706 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9435274610776043
+Precision: 0.9652830447558685, Recall: 0.9496153096270078, F1-Score: 0.9573850803365042, Time: 331.90148854255676 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9432619672591019
+Precision: 0.9637518954437143, Recall: 0.9508263719123536, F1-Score: 0.9572455028791764, Time: 323.5711739063263 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9287750215400645
+Precision: 0.9465398786343174, Recall: 0.946855737360709, F1-Score: 0.946697781651531, Time: 70.95555472373962 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=0.7, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9263304746829102
+Precision: 0.95371025410604, Recall: 0.935105058715899, F1-Score: 0.9443160240281856, Time: 79.9417552947998 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=auto): 0.9433521349710462
+Precision: 0.9642613958407036, Recall: 0.950425184096465, F1-Score: 0.9572932972550412, Time: 334.2403507232666 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.0, feature_subset=sqrt): 0.9428637265313483
+Precision: 0.9643656801669382, Recall: 0.9495553189255665, F1-Score: 0.9569031965540693, Time: 368.1591839790344 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=auto): 0.9279860540605527
+Precision: 0.9435207896875396, Recall: 0.9490041543560748, F1-Score: 0.9462545283251647, Time: 71.39584064483643 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=5, min_info_gain=0.01, feature_subset=sqrt): 0.9279008956659387
+Precision: 0.956611522665336, Recall: 0.9344526598377252, F1-Score: 0.9454022661492533, Time: 79.91775059700012 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=auto): 0.9434848818802973
+Precision: 0.9652807952371152, Recall: 0.9495515695067265, F1-Score: 0.9573515791861191, Time: 332.9677233695984 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.0, feature_subset=sqrt): 0.9428261566513716
+Precision: 0.9652672585820739, Recall: 0.948542975838745, F1-Score: 0.9568320426630357, Time: 329.61052799224854 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=auto): 0.9279359608872503
+Precision: 0.9434438389455871, Recall: 0.949011653193755, F1-Score: 0.9462195555057105, Time: 79.57166576385498 seconds
+Validation Accuracy for (learning_rate=0.2, num_trees=100, max_depth=6, subsampling_rate=1.0, min_instances=10, min_info_gain=0.01, feature_subset=sqrt): 0.9279184282765944
+Precision: 0.9566828024890882, Recall: 0.9344039173928042, F1-Score: 0.9454121262127636, Time: 77.78756427764893 seconds
